@@ -10,13 +10,13 @@
     {
       "name": "Brasil",
       "power": 5,
-      "image": "TODO"
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "away": 
     {
       "name": "Argentina",
       "power": 5,
-      "image": "TODO"
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   }
 ]

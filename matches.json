@@ -18,5 +18,50 @@
       "power": 5,
       "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
+  },
+  
+    {
+
+    "description": "Eliminatórias Copa do Mundo",
+
+    "local":
+    {
+      "name": "Engenhão",
+      "image": "https://veja.abril.com.br/wp-content/uploads/2016/07/esporte-olimpiada-rio-instalacoes-20160726-012.jpg"
+    },
+    "home": 
+    {
+      "name": "Uruguay",
+      "power": 4,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
+    "away": 
+    {
+      "name": "Brasil",
+      "power": 5,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    }
+  },
+  
+    {
+    "description": "Eliminatórias Copa do Mundo",
+    "local":
+    {
+      "name": "Maracanã",
+      "image": "https://cdn.abcdoabc.com.br/maracana-divulgacao_821e3015.png"
+    },
+    "home": 
+    {
+      "name": "Portugal",
+      "power": 5,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/pt.png"
+    },
+    "away": 
+    {
+      "name": "Brasil",
+      "power": 5,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    }
+      
   }
 ]
